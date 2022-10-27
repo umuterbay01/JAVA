@@ -25,5 +25,7 @@ public class Hesap {
         boolean kosul1 = ortalama >= 70;
         String hem = kosul1 ? "BAŞARILI" : "BAŞARISIZ";
         System.out.println(hem);
+
+
     }
 }
